@@ -37,7 +37,7 @@ const ErrorPage = () => {
                 404 Error
             </h1>
             <h2>
-            <Link to="/home">go home.</Link>
+            <Link to="/home">go home</Link>
             </h2>
         </div>
     </>
