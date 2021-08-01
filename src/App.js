@@ -1,6 +1,6 @@
 import React from 'react';
 import Login from './pages/Loign/Login.js'
-import ViewingEmployees from './pages/ViewingEmployees/ViewingEmployees.js'
+import ViewingEmployees from './pages/ViewingEmployees/ViewingEmployees'
 import Management from './pages/Management/Management.js'
 import Register from './pages/Register/Register.js'
 import ErrorPage from './pages/ErrorPage.js'

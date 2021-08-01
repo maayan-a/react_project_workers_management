@@ -37,7 +37,9 @@ const ErrorPage = () => {
                 404 Error
             </h1>
             <h2>
-            <Link to="/home">go home</Link>
+            {window.uid 
+            ? <Link to="/home" if>Go home</Link>
+            : <Link to="/">Login</Link>}
             </h2>
         </div>
     </>
